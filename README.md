@@ -449,18 +449,6 @@ Provides traceability for agent decisions.
 
 ---
 
-## 📸 Screenshots
-
-Screenshots of the working application can be added here, including:
-
-- Dashboard
-- AI Support Agent
-- Security Incident Escalation
-- Ticket Queue
-- Knowledge Base
-- Audit Trail
-
----
 
 ## 🎥 Demo Video
 
