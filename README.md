@@ -472,9 +472,7 @@ Open-access demo video:
 
 ## 🔗 GitHub Repository
 
-**[Add Final GitHub Repository Link Here]**
-
----
+[View Veridian IT Service Agent on GitHub](https://github.com/Chirag2034/23CSU080_ChiragMittal)
 
 ## 👨‍💻 Author
 
