@@ -447,17 +447,6 @@ Displays the supplied Veridian knowledge and policy sources.
 ### Audit Trail
 Provides traceability for agent decisions.
 
----
-
-
-## 🎥 Demo Video
-
-Open-access demo video:
-
-**[Add Google Drive Demo Video Link Here]**
-
----
-
 ## 🔗 GitHub Repository
 
 [View Veridian IT Service Agent on GitHub](https://github.com/Chirag2034/23CSU080_ChiragMittal)
