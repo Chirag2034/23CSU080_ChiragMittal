@@ -1,0 +1,145 @@
+[
+    {
+        "ticket_id": "AI-D1AD9149",
+        "created_at": "2026-09-17 15:32:40",
+        "issue": "I'm locked out of my account. I tried my password 6 times.",
+        "intent": "Account Lockout",
+        "decision": "Manual IT Unlock Required",
+        "confidence": "High",
+        "priority": "High",
+        "assigned_to": "IT Support",
+        "action": "Route to IT for manual account unlock",
+        "status": "Assigned to IT",
+        "sources": [
+            "KB-01"
+        ]
+    },
+    {
+        "ticket_id": "AI-472E494E",
+        "created_at": "2026-09-17 15:44:55",
+        "issue": "My laptop won't turn on at all, it's completely dead, had it about 3.5 years now.",
+        "intent": "Laptop Replacement / Hardware Failure",
+        "decision": "Policy Conflict \u2014 Human Review Required",
+        "confidence": "High",
+        "priority": "High",
+        "assigned_to": "IT / Finance",
+        "action": "Route to IT and Finance for policy review",
+        "status": "Pending Human Review",
+        "sources": [
+            "KB-03",
+            "ASSET-01"
+        ],
+        "request_id": "REQ-01"
+    },
+    {
+        "ticket_id": "AI-F90020CD",
+        "created_at": "2026-09-17 15:45:51",
+        "issue": "I'm locked out of my account, tried my password 6 times.",
+        "intent": "Account Lockout",
+        "decision": "Manual IT Unlock Required",
+        "confidence": "High",
+        "priority": "High",
+        "assigned_to": "IT Support",
+        "action": "Route to IT for manual account unlock",
+        "status": "Assigned to IT",
+        "sources": [
+            "KB-01"
+        ],
+        "request_id": "REQ-03"
+    },
+    {
+        "ticket_id": "AI-E5A307A1",
+        "created_at": "2026-09-17 15:48:55",
+        "issue": "Need approval to install a data-analysis tool that's not in the software catalog.",
+        "intent": "Non-Catalog Software Installation",
+        "decision": "IT Security Review Required",
+        "confidence": "High",
+        "priority": "Normal",
+        "assigned_to": "IT Security",
+        "action": "Route request to IT Security review",
+        "status": "Escalated - Security",
+        "sources": [
+            "KB-04"
+        ],
+        "request_id": "REQ-04"
+    },
+    {
+        "ticket_id": "AI-FD5D7F1C",
+        "created_at": "2026-09-17 15:50:15",
+        "issue": "I've started working from home 4 days a week, how do I get a monitor?",
+        "intent": "Work-From-Home Equipment",
+        "decision": "Manager and Finance Approval Required",
+        "confidence": "High",
+        "priority": "Normal",
+        "assigned_to": "Finance / IT",
+        "action": "Manager approval \u2192 Finance processing \u2192 IT shipping",
+        "status": "Pending Approval",
+        "sources": [
+            "KB-10"
+        ],
+        "request_id": "REQ-07"
+    },
+    {
+        "ticket_id": "AI-019A41E3",
+        "created_at": "2026-09-17 15:50:47",
+        "issue": "I think I got a phishing email asking for my login \u2014 forwarding it to a few teammates to check.",
+        "intent": "Security Incident",
+        "decision": "Escalate Immediately",
+        "confidence": "High",
+        "priority": "Critical",
+        "assigned_to": "IT Security",
+        "action": "Immediate Security escalation",
+        "status": "Escalated - Security",
+        "sources": [
+            "KB-09"
+        ],
+        "request_id": "REQ-08"
+    },
+    {
+        "ticket_id": "AI-2AC51AD6",
+        "created_at": "2026-09-17 15:51:42",
+        "issue": "Can someone give me admin access to the finance reporting server? Need it urgently for month-end.",
+        "intent": "Privileged Access Request",
+        "decision": "Escalate \u2014 No Supporting Policy",
+        "confidence": "High",
+        "priority": "High",
+        "assigned_to": "IT Access Management",
+        "action": "Escalate for authorization review",
+        "status": "Open",
+        "sources": [],
+        "request_id": "REQ-10"
+    },
+    {
+        "ticket_id": "AI-3A7640BA",
+        "created_at": "2026-09-17 15:52:21",
+        "issue": "New contractor joining my team next week, they'll need VPN access.",
+        "intent": "Contractor VPN Access",
+        "decision": "Manager Approval Required",
+        "confidence": "High",
+        "priority": "Normal",
+        "assigned_to": "Access Management",
+        "action": "Obtain manager approval via access request form",
+        "status": "Pending Approval",
+        "sources": [
+            "KB-02"
+        ],
+        "request_id": "REQ-11"
+    },
+    {
+        "ticket_id": "AI-D95E2E44",
+        "created_at": "2026-09-17 15:53:15",
+        "issue": "Laptop screen is flickering on and off, had it 2 years, might just need a fix not a replacement.",
+        "intent": "Laptop Hardware Issue",
+        "decision": "Hardware Diagnosis Required",
+        "confidence": "High",
+        "priority": "High",
+        "assigned_to": "IT Hardware Support",
+        "action": "IT hardware diagnosis",
+        "status": "Open",
+        "sources": [
+            "KB-03",
+            "ASSET-01"
+        ],
+        "request_id": "REQ-13"
+    }
+]
